@@ -1,5 +1,5 @@
 ## Let's get IoT-fied! (30 IoT Projects for All Levels) 
-This Github repository contains all the software resources useful for implementing the projects in Let's get IoT-fied! (30 IoT Projects for All Levels) 1st Edition book published by CRC Press (Taylor & Francis Group).
+This Github repository contains all the software resources useful for implementing the projects in Let's get IoT-fied! (30 IoT Projects for All Levels) 1st Edition book published by CRC Press (Taylor & Francis Group). With this set of projects, one can understand IoT product Building with ease!
 
 Link to purchase the book: https://www.routledge.com/Lets-Get-IoT-fied-30-IoT-Projects-for-All-Levels/Juluru-Vasudevan-Murugesh/p/book/9780367706074
 
